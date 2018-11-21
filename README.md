@@ -1,2 +1,3 @@
 # python-guo
-记录python学习
+记录蟒蛇学习
+蟒蛇python
